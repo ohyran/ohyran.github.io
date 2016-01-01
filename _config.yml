@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ohyran.github.io
+title: Public Memo
+email: jens@reuterberg.st
+author: Jens Reuterberg
+description: A place to put all thoughts.
+paginate: 3
+google_analytics: 
