@@ -122,7 +122,7 @@ body {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  background: #fafafa;
+  background: #bfbfbf;
   border-radius: 0.1875em;
   border: 1px solid #f3f3f3;
   color: #333333;
@@ -351,7 +351,7 @@ footer {
 footer,
 footer .wrap {
   color: #7a7a7a;
-  background-color: #fafafa;
+  background-color: #bfbfbf;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   clear: both;
