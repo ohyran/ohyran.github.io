@@ -3,7 +3,7 @@ published: true
 title: Wild Introductions are spotted
 layout: post
 ---
-<center><img src="https://i.imgur.com/Anv5jNO.jpg" width="400" height="300" /></center>
+<center><img src="https://i.imgur.com/Anv5jNO.jpg"/></center>
 
 <br>
 
