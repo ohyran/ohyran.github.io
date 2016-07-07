@@ -135,7 +135,7 @@ body {
 }
 
 .pagination a:hover, .pagination a:focus {
-  background: ##002b36;
+  background: ##586e75;
   color: #93a1a1;
 }
 
