@@ -3,7 +3,7 @@ pygments: false
 markdown: kramdown
 url: http://ohyran.github.io
 title: Public Memo
-email: jens@reuterberg.st
+email: ohyran@gmail.com
 author: Jens Reuterberg
 description: A place to put all thoughts.
 paginate: 10
