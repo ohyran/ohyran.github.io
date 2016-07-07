@@ -58,7 +58,7 @@ body {
 }
 
 .site-header a {
-  color: #93a1a1;
+  color: #586e75;
   font-weight: 300;
 }
 
@@ -123,10 +123,10 @@ body {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  background: #002b36;
+  background: #586e75;
   border-radius: 0.1875em;
-  border: 1px solid #f3f3f3;
-  color: #93a1a1;
+  border: 1px solid #586e75;
+  color: #586e75;
   padding: 1rem 1.5rem;
 }
 
