@@ -107,7 +107,7 @@ body {
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
-  color: #586e75;
+  color: #93a1a1;
 }
 
 .pagination,
@@ -153,7 +153,7 @@ body {
   font-weight: 300;
   margin: 0;
   padding: .25rem 0;
-  color: #93a1a1;
+  color: #586e75;
   font-style: italic;
 }
 
@@ -221,8 +221,8 @@ blockquote {
 blockquote footer {
   font-size: .85rem;
   font-style: normal;
-  background-color: ##002b36;
-  color: #93a1a1;
+  background-color: ##586e75;
+  color: #002b36;
   border-color: transparent;
 }
 
