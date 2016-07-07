@@ -697,12 +697,12 @@ a:hover {
 }
 
 .button-blue {
-  color: #fff;
-  background-color: #0096cc;
+  color: #002b36;
+  background-color: #93a1a1;
 }
 .button-blue:hover {
-  color: #fff;
-  background-color: #004b66;
+  color: #002b36;
+  background-color: #586e75;
 }
 
 .button-gray {
