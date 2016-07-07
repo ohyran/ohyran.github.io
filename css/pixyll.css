@@ -126,7 +126,7 @@ body {
   background: #586e75;
   border-radius: 0.1875em;
   border: 1px solid #586e75;
-  color: #586e75;
+  color: #002b36;
   padding: 1rem 1.5rem;
 }
 
@@ -136,11 +136,11 @@ body {
 
 .pagination a:hover, .pagination a:focus {
   background: ##586e75;
-  color: #93a1a1;
+  color: #002b36;
 }
 
 .pagination a:active {
-  background: ##002b36;
+  background: ##93a1a1;
 }
 
 .wrap .measure {
