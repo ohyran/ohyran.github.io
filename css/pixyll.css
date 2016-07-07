@@ -334,7 +334,7 @@ h6 {
   .posts .post {
     margin-bottom: 4rem;
     padding-bottom: 2rem;
-    border-bottom: thin solid #f3f3f3;
+    border-bottom: thin solid #586e75;
   }
 
   .posts .post:last-child {
