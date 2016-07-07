@@ -96,7 +96,7 @@ body {
 .posts .post {
   margin-bottom: 1rem;
   padding-bottom: .5rem;
-  border-bottom: thin solid #f3f3f3;
+  border-bottom: thin solid #586e75;
 }
 
 .posts .post:last-child {
@@ -123,7 +123,7 @@ body {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  background: #586e75;
+  background: #002b36;
   border-radius: 0.1875em;
   border: 1px solid #586e75;
   color: #002b36;
@@ -140,7 +140,7 @@ body {
 }
 
 .pagination a:active {
-  background: ##93a1a1;
+  background: ##002b36;
 }
 
 .wrap .measure {
