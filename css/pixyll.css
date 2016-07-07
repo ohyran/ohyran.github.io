@@ -173,7 +173,7 @@ body {
 .button-disabled:active,
 .button-disabled:focus {
   cursor: not-allowed;
-  background-color: ##002b36;
+  background-color: ##586e75;
 }
 
 form {
