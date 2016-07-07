@@ -3,6 +3,7 @@ published: true
 title: Wild Introductions are spotted
 layout: post
 ---
+<center><img src="https://i.imgur.com/Anv5jNO.jpg" width="400" height="300" /></center>
 
 My name is **Jens, I'm an illustrator and designer** working in Open Source in general and KDE specifically. Up until a few years ago I worked mainly freelance doing illustration and design on demand and loving that. Then I started working at a communications bureau after which I was sponsored by Blue Systems to work full time on KDE stuff through the VDG a design group I founded within KDE as a way to focus design work, open up design work and to ensure that every could be a part of "design".
 
